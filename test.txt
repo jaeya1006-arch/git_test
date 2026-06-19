@@ -1,3 +1,7 @@
 hello
+<<<<<<< HEAD
 second
 third
+=======
+
+>>>>>>> parent of af77cf4 (두번째 커밋)
