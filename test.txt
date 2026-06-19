@@ -1,7 +1,3 @@
 hello
-<<<<<<< HEAD
 master
-=======
-wolrd
-
->>>>>>> testbranch
+first
